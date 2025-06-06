@@ -32,6 +32,11 @@ I'm a passionate AGI (Artificial General Intelligence) researcher dedicated to p
 ## 🚀 Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Qwen-FFB300?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemma-6200EA?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Unsloth-333333?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Modal-000000?style=for-the-badge&logo=modal&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/> </p>
 
+## 🚦 GitHub Stats
+
+![Thufailahamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thufailahamed&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thufailahamed&layout=compact&theme=radical)
+
 ## 🌐 Let's Connect
 
 <!-- Add your social links below -->
