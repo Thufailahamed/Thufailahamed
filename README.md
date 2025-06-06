@@ -34,6 +34,14 @@ I'm a passionate AGI (Artificial General Intelligence) researcher dedicated to p
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle)
 
+---
+
+## 🗄️ Datasets & Models
+
+Find my datasets and models on [Hugging Face](https://huggingface.co/Thufail).
+
+---
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Thufailahamed" alt="Profile views" />
 </p>
