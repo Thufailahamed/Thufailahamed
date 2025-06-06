@@ -30,12 +30,22 @@ I'm a passionate AGI (Artificial General Intelligence) researcher dedicated to p
 ---
 
 ## 🚀 Tech Stack
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Qwen-FFB300?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemma-6200EA?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Unsloth-333333?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Modal-000000?style=for-the-badge&logo=modal&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/> </p>
-
-## 🚦 GitHub Stats
-
-![Thufailahamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thufailahamed&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thufailahamed&layout=compact&theme=radical)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FFB300?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-0FA36B?style=flat-square&logo=chainlink&logoColor=white)
+![Unsloth](https://img.shields.io/badge/-Unsloth-333333?style=flat-square&logo=github&logoColor=white)
+![LoRA](https://img.shields.io/badge/-LoRA-8A2BE2?style=flat-square)
+![PEFT](https://img.shields.io/badge/-PEFT-FF69B4?style=flat-square)
+![BitsAndBytes](https://img.shields.io/badge/-BitsAndBytes-000000?style=flat-square)
+![Modal](https://img.shields.io/badge/-Modal-000000?style=flat-square&logo=vercel&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/-W&B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle)
 
 ## 🌐 Let's Connect
 
