@@ -39,9 +39,3 @@ I'm a passionate AGI (Artificial General Intelligence) researcher dedicated to p
 ## 🗄️ Datasets & Models
 
 Find my datasets and models on [Hugging Face](https://huggingface.co/Thufail).
-
----
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Thufailahamed" alt="Profile views" />
-</p>
