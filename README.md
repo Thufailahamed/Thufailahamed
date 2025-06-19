@@ -13,7 +13,8 @@ I'm a passionate AGI (Artificial General Intelligence) researcher dedicated to p
 - **Diffusion Models**
 - **Multi-Modal AI Systems**
 - **Vision Models**
-
+- **AI Agents**
+  
 ---
 
 ## 🚀 Tech Stack
