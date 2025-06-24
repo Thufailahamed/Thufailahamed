@@ -40,3 +40,9 @@ I'm a passionate AGI (Artificial General Intelligence) researcher dedicated to p
 ## 🗄️ Datasets & Models
 
 Find my datasets and models on [Hugging Face](https://huggingface.co/Thufail).
+
+---
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Thufailahamed&theme=dracula&no-bg=true&row=1)
+
+
