@@ -18,22 +18,92 @@ I'm a passionate AGI (Artificial General Intelligence) researcher dedicated to p
 ---
 
 ## 🚀 Tech Stack
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FFB300?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-0FA36B?style=flat-square&logo=chainlink&logoColor=white)
-![Unsloth](https://img.shields.io/badge/-Unsloth-333333?style=flat-square&logo=github&logoColor=white)
-![LoRA](https://img.shields.io/badge/-LoRA-8A2BE2?style=flat-square)
-![PEFT](https://img.shields.io/badge/-PEFT-FF69B4?style=flat-square)
-![BitsAndBytes](https://img.shields.io/badge/-BitsAndBytes-000000?style=flat-square)
-![Modal](https://img.shields.io/badge/-Modal-000000?style=flat-square&logo=vercel&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/-W&B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle)
+<h3 align="left">Languages and Tools (AI Researcher & Engineer):</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #3776AB; padding: 2px; transition: transform 0.2s;" />
+  </a>
+
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png"
+      alt="pytorch" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #EE4C2C; padding: 2px;" />
+  </a>
+
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
+      alt="tensorflow" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #FF6F00; padding: 2px;" />
+  </a>
+
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+      alt="scikit-learn" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #F7931E; padding: 2px;" />
+  </a>
+
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+      alt="numpy" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #013243; padding: 2px;" />
+  </a>
+
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+      alt="pandas" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #150458; padding: 2px;" />
+  </a>
+
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
+      alt="matplotlib" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #11557C; padding: 2px;" />
+  </a>
+
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+      alt="huggingface" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #FFD21F; padding: 2px;" />
+  </a>
+
+  <a href="https://www.opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"
+      alt="opencv" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #5C3EE8; padding: 2px;" />
+  </a>
+
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"
+      alt="jupyter" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #F37626; padding: 2px;" />
+  </a>
+
+  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"
+      alt="kaggle" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #20BEFF; padding: 2px;" />
+  </a>
+
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4"
+      alt="openai" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #10A37F; padding: 2px;" />
+  </a>
+
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
+      alt="fastapi" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #009688; padding: 2px;" />
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker" width="40" height="40"
+      style="border-radius: 10px; box-shadow: 0 0 8px #0db7ed; padding: 2px;" />
+  </a>
+</p>
 
 ---
 
