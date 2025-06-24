@@ -43,7 +43,7 @@ I'm a passionate AGI (Artificial General Intelligence) researcher dedicated to p
       alt="scikit-learn" width="40" height="40"
       style="border-radius: 10px; box-shadow: 0 0 8px #F7931E; padding: 2px;" />
   </a>
-
+  
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
       alt="numpy" width="40" height="40"
