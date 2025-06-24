@@ -114,4 +114,7 @@ Find my datasets and models on [Hugging Face](https://huggingface.co/Thufail).
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Thufailahamed&theme=dracula&no-bg=true&row=1)
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thufailahamed&layout=compact&theme=radical)
 
