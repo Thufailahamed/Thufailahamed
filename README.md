@@ -18,6 +18,7 @@ I'm a passionate AGI (Artificial General Intelligence) researcher dedicated to p
 ---
 
 ## 🚀 Tech Stack
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
